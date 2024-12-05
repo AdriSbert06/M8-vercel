@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: skyblue;
     color: white;
     text-align: center;
     padding: 20px;
@@ -25,7 +25,7 @@ main {
 }
 
 h2 {
-    color: #4CAF50;
+    color: blue;
 }
 
 p {
@@ -34,7 +34,7 @@ p {
 }
 
 footer {
-    background-color: #333;
+    background-color: black solid;
     color: white;
     text-align: center;
     padding: 10px;
