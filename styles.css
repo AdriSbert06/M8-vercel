@@ -34,8 +34,8 @@ p {
 }
 
 footer {
-    background-color: black solid;
-    color: white;
+    background-color: grey;
+    color:black;
     text-align: center;
     padding: 10px;
     position: fixed;
